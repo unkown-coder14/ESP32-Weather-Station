@@ -1,6 +1,6 @@
 # ESP32 Weather Station
 
-A simple weather monitoring project built with an ESP32, combining temperature, humidity, and pressure sensing with a live OLED display. Built as a project for the Electronics 2 course.
+A simple weather monitoring project built with an ESP32, combining temperature, humidity, and pressure sensing with a live OLED display.
 
 ## Components Used
 
