@@ -13,7 +13,6 @@ A simple weather monitoring project built with an ESP32, combining temperature, 
 
 - DHT11 reads temperature and humidity over a single digital data line.
 - BMP180 reads pressure (and temperature as a backup) over the I2C bus.
-=======
 - BMP180 reads pressure (and temperature as a backup) over the I2C bus..
 - Readings are also printed to the Serial Monitor for debugging.
 
